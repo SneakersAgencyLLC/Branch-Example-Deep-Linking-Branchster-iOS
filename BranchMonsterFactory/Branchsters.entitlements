@@ -47,6 +47,10 @@
 		<string>applinks:email-iterable.branch.rocks</string>
 		<string>applinks:email-adobe.branch.rocks</string>
 		<string>applinks:click.email-salesforce.branch.rocks</string>
+		<string>applinks:4xc8k.app.link</string>
+		<string>applinks:4xc8k-alternate.app.link</string>
+		<string>applinks:4xc8k.test-app.link</string>
+		<string>applinks:4xc8k-alternate.test-app.link</string>
 	</array>
 </dict>
 </plist>

@@ -25,9 +25,11 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>branchsters</string>
+				<string>sneakersbranch</string>
 				<string>fb288726397999326</string>
 			</array>
 		</dict>
@@ -61,7 +63,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>branch_app_domain</key>
+	<string>4xc8k.app.link</string>
 	<key>branch_key</key>
-	<string>key_live_hkDytPACtipny3N9XmnbZlapBDdj4WIL</string>
+	<string>key_live_jnL4MDSXrLEZBxiLF5JvddpoBAbDWfA4</string>
 </dict>
 </plist>
